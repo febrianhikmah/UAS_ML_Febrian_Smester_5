@@ -1,5 +1,7 @@
 # Machine Learning UAS - Klasifikasi Batu Empedu dan Klastering Risiko Bencana
 
+Live App: https://uasmlfebriansmester-5.streamlit.app/
+
 Project ini merupakan aplikasi Streamlit untuk UAS Machine Learning yang berisi dua studi kasus utama:
 
 1. Klasifikasi risiko penyakit batu empedu berdasarkan data kesehatan pasien.
